@@ -5,7 +5,7 @@ Welcome to the GPU Database repository for LLMs! This repository is a comprehens
 ## Table of Contents
 
 - [About](#about)
-- [Data](#data)
+- [Data Format](#data-format)
 - [GPU Data](#gpu-data)
 - [Contributing](#contributing)
 - [License](#license)
@@ -19,7 +19,7 @@ The GPU Database for LLMs is a collection of information about different GPUs, i
 - Researching the power consumption of different GPUs for LLM tasks.
 - Identifying trends in GPU development and pricing for LLM tasks.
 
-## Data
+## Data Format
 The data in the GPU Database for LLMs is organized in a table format, with each row representing a different GPU. The table includes the following columns:
 
 - Brand: The brand of the GPU (e.g. NVIDIA, AMD, etc.).
