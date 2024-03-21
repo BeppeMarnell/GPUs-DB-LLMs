@@ -1,7 +1,35 @@
-# GPUs-Database
-Collection of various informations about GPUs.
-Let's keep it up to date together.
+# GPU Database for Large Language Models (LLMs) 💻🖥️
 
+Welcome to the GPU Database repository for LLMs! This repository is a comprehensive collection of information about GPUs, designed to provide enthusiasts, professionals, and curious minds with a centralized hub of knowledge, specifically for those interested in Large Language Models (LLMs).
+
+## Table of Contents
+
+- [About](#about)
+- [Data](#data)
+- [Contributing](#contributing)
+- [License](#license)
+
+
+## About
+The GPU Database for LLMs is a collection of information about different GPUs, including their brand, model, RAM size, RAM speed, maximum TDP, and cost (both new and used). This information can be useful for a variety of purposes, such as:
+
+- Comparing different GPUs to determine which one is the best fit for your LLM needs.
+- Determining the cost of upgrading your GPU for LLM tasks.
+- Researching the power consumption of different GPUs for LLM tasks.
+- Identifying trends in GPU development and pricing for LLM tasks.
+
+## Data
+The data in the GPU Database for LLMs is organized in a table format, with each row representing a different GPU. The table includes the following columns:
+
+- Brand: The brand of the GPU (e.g. NVIDIA, AMD, etc.).
+- Model: The model of the GPU (e.g. Radeon RX 7900 XTX, etc.).
+- RAM size (GB): The amount of video memory (VRAM) on the GPU, measured in gigabytes.
+- RAM speed (GB/s): The speed of the VRAM, measured in gigabytes per second.
+- Max TDP (W): The maximum thermal design power (TDP) of the GPU, measured in watts. This is the maximum amount of power that the GPU is designed to consume under heavy load.
+- Cost new (USD): The cost of the GPU when purchased new, in US dollars.
+- Cost used (USD): The estimated cost of the GPU when purchased used, in US dollars.
+
+## GPU Data
 | Brand  | Model           | RAM size (GB) | RAM speed (GB/s) | Max TDP (W) | Cost new (USD) | Cost used (USD) |
 |--------|-----------------|---------------|------------------|-------------|----------------|-----------------|
 | AMD    | RX 7900 XTX     | 24            | 960              | 355         | 950            | 800             |
@@ -49,6 +77,18 @@ Let's keep it up to date together.
 | Nvidia | 2 x RTX 3090    | 2 x 24        | 2 x 936          | 700         | 3000           | 1400            |
 | Nvidia | RTX 3090        | 24            | 936              | 350         | 1500           | 700             |
 | Nvidia | RTX 3060        | 12            | 360              | 170         | 275            | 225             |
+
+### Contributing
+
+I welcome contributions from the community! If you have information about a GPU that is not currently included in the database, or if you notice any errors or inaccuracies in the existing data, please open a pull request or submit an issue.
+
+### License
+
+The GPU Database for LLMs is released under the MIT License.
+
+----------
+
+I hope that you find the GPU Database for LLMs useful, and I look forward to your contributions! 🎉
 
 Inital source:
 - [reddit](https://www.reddit.com/r/LocalLLaMA/comments/16z3jps/llms_inference_comparison/)
