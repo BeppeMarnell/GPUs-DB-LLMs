@@ -6,6 +6,7 @@ Welcome to the GPU Database repository for LLMs! This repository is a comprehens
 
 - [About](#about)
 - [Data](#data)
+- [GPU Data](#gpu-data)
 - [Contributing](#contributing)
 - [License](#license)
 
